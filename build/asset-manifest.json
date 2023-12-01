@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79ce54a7.css",
+    "main.js": "/static/js/main.4d31287b.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/pexels-pixabay-459653.jpg": "/static/media/pexels-pixabay-459653.1579b3c8fc139a2fc6c0.jpg",
+    "static/media/contact-us.webp": "/static/media/contact-us.244a586919106028ab03.webp",
+    "static/media/GYM.png": "/static/media/GYM.4746a27a243e82d6d49e.png",
+    "static/media/photo-profil_1.jpg": "/static/media/photo-profil_1.95475813f73536fe544d.jpg",
+    "static/media/About img.jpeg": "/static/media/About img.42a047d86c048c7457fb.jpeg",
+    "static/media/Portfolio.jpg": "/static/media/Portfolio.03b061370b7ea22065d6.jpg",
+    "static/media/QB.jpg": "/static/media/QB.f430c4b258ea205dd389.jpg",
+    "static/media/SnakeGame.png": "/static/media/SnakeGame.29100903299d03d5389b.png",
+    "static/media/ChatGPT.jpg": "/static/media/ChatGPT.e3de06de72a1e58a5c1b.jpg",
+    "static/media/VoiceToText.jpg": "/static/media/VoiceToText.3b51f20d6a06a60b87cb.jpg",
+    "static/media/contact bg2.jpg": "/static/media/contact bg2.32621e23241c4203b29a.jpg",
+    "static/media/github.svg": "/static/media/github.171b179b9abcd796dce0204e58bb5c5f.svg",
+    "static/media/instagram.svg": "/static/media/instagram.6d5171d58481634549447b4387ccfe0c.svg",
+    "static/media/twitter.svg": "/static/media/twitter.2ee4044b34e347393a7c55e49a299d8a.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.e6b856b56c51f12e2816f77522ce4a54.svg",
+    "main.79ce54a7.css.map": "/static/css/main.79ce54a7.css.map",
+    "main.4d31287b.js.map": "/static/js/main.4d31287b.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79ce54a7.css",
+    "static/js/main.4d31287b.js"
+  ]
+}
